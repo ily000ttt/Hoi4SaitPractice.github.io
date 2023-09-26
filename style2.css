@@ -1,0 +1,58 @@
+h1{
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    clear: left;
+  
+}
+
+
+h1{
+    margin-left: 9em;
+    margin-right: 9em;
+
+}
+.Banner{
+    margin-right: 10px;
+}
+.Map{
+    width: 975px;
+}
+.wrapper {
+    display: flex;
+    margin-bottom: 40px;
+}
+.milleniumdawn
+{
+    margin-left: 0;
+    margin-bottom: 1px;
+    margin-bottom: 0px;
+}
+.vvod
+{
+    margin-top: 1px;
+    font-size: 25px;
+}
+
+.newMillennium{
+    font-size: 25px;
+
+    margin-top: 0px;
+}
+.lists{
+    font-size: 25px;
+    display: flex;
+    gap: 30px;
+    
+}
+.Drevofocus
+{
+    font-size: 25px;
+    
+}
+.list{
+   display: flex;
+   gap: 30px;
+}
